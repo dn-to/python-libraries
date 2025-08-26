@@ -1,0 +1,3 @@
+The "matplotlibInit.py" shows the basics of matplotlib library: manipulate data and create graphics.
+The exercices includes:
+     * 

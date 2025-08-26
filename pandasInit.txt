@@ -1,0 +1,5 @@
+The "pandasInit.py" shows the basics of pandas library: manipulate files as table.
+The exercices includes:
+     * Creating dataframes with data.
+     * Retrieving column(s).
+     * Retrieving rows that match certain conditions.

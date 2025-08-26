@@ -15,5 +15,5 @@ dataFrame = pandas.read_csv("./file.txt", sep='\t')
 #print(dataFrame[dataFrame["Edad"]>30])
 
 #------>Retrieving rows ordering by count
-gbDF=dataFrame.groupby("Gustos")["Nombre"].count()
-print(gbDF.sort_values(ascending=False))
+#gbDF=dataFrame.groupby("Gustos")["Nombre"].count()
+#print(gbDF.sort_values(ascending=False))

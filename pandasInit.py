@@ -12,8 +12,11 @@ dataFrame = pandas.read_csv("./file.txt", sep='\t')
 #print(dataFrame[["Objeto" , "Nombre"]])
 
 #------>Retrieving rows with specific conditions
-#print(dataFrame[dataFrame["Edad"]>30])
+print(dataFrame[dataFrame["Edad"]<20])
 
 #------>Retrieving rows ordering by count
-#gbDF=dataFrame.groupby("Gustos")["Nombre"].count()
+gbDF=dataFrame.groupby("Gustos")["Nombre"].count()
+#print(gbDF)
 #print(gbDF.sort_values(ascending=False))
+
+#------>Retrieving rows with certain Gusto and Edad>20

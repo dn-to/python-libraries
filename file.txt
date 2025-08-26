@@ -3,7 +3,7 @@ Karina	 Juarez	 25	    Kpop	 Fresa	        JUCA991021KPM
 Roberto	 Gómez	 30	 Videojuegos	 Control	 GORO940520
 Sofía	    López	 22	 Pintura	 Paleta	     LOSO030215ABC
 Andrés	 Pérez	 45	        Cocina	 Manzana	 PEAN790725123
-Valeria	 Torres	 19	 Música	 Audífonos	 TOVA060910XYZ
+Valeria	 Torres	 19	Música	 Audífonos	 TOVA060910XYZ
 Javier	 Díaz	 50	 Jardinería	 Flor	 DIJA74
 Lucía	 Hernández	     28	 Lectura	 Libro	 HELU970105DFG
 Carlos	 Sánchez	 35	 Fotografía	 Cámara	 SACA900101
@@ -16,9 +16,9 @@ Lucía	 Fernández	 19	 Tocar guitarra	 Gato	 FELU061125OPQ
 Miguel	 Sánchez	 50	 Jardinería	 Flor	 SAGM751210RST
 Andrea	 López	 28	        Pintar	 Árbol	 LOAN880330**123**
 Javier	 Díaz	 35	 Fotografía	 Cámara	 DIJA900905
-Valentina	 Torres	 21	 Música clásica	 Notas musicales	 TORV040218ABC
+Valentina	 Torres	 21	Música clásica	 Notas musicales	 TORV040218ABC
 Fernando	 Ruiz	 40	 Videojuegos	 Control de videojuego	  RUIF850730ABC
 Paula	        Castro	 27	 Viajar	 Avión	 CAPA980425ABC
-Daniela Torres  14  Música  Flor    TOHD
-Wendy   Huerta  15  Música  Vermellon   HUHW0909082ED
-Kaori   Ortega  25  Música  Kpop    
+Daniela	 Torres 	 14	Música	  Flor 	   TOHD
+Wendy	  Huerta  	15 	Música	 Vermellon	   HUHW0909082ED
+Kaori 	  Ortega	  25 	Música	 Kpop	  

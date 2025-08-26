@@ -1,0 +1,24 @@
+Nombre,Apellido,Edad,Gustos,Objeto,RFC,Mayor_de_30
+Karina, Juarez,25,    Kpop, Fresa,        JUCA991021KPM,False
+Roberto, Gómez,30, Videojuegos, Control, GORO940520,False
+Sofía,    López,22, Pintura, Paleta,     LOSO030215ABC,False
+Andrés, Pérez,45,        Cocina, Manzana, PEAN790725123,True
+Valeria, Torres,19,Música, Audífonos, TOVA060910XYZ,False
+Javier, Díaz,50, Jardinería, Flor, DIJA74,True
+Lucía, Hernández,28, Lectura, Libro, HELU970105DFG,False
+Carlos, Sánchez,35, Fotografía, Cámara, SACA900101,True
+Valentina, Castro,21, Baile, Zapatillas, CAVZ040620HIJ,False
+Fernando, Ruiz,40, Ciclismo, Bicicleta, RUFE8503,True
+Juan, Pérez,30, Senderismo, Sol, PEGJ950101ABC,False
+Sofía, Gómez,22, Leer, Libro, GOMM030515XYZ,False
+Carlos,    Rodríguez,45, Cocina, Manzana, ROCL800820MNB,True
+Lucía, Fernández,19, Tocar guitarra, Gato, FELU061125OPQ,False
+Miguel, Sánchez,50, Jardinería, Flor, SAGM751210RST,True
+Andrea, López,28,        Pintar, Árbol, LOAN880330**123**,False
+Javier, Díaz,35, Fotografía, Cámara, DIJA900905,True
+Valentina, Torres,21,Música clásica, Notas musicales, TORV040218ABC,False
+Fernando, Ruiz,40, Videojuegos, Control de videojuego,  RUIF850730ABC,True
+Paula,        Castro,27, Viajar, Avión, CAPA980425ABC,False
+Daniela, Torres ,14,Música,  Flor ,   TOHD,False
+Wendy,  Huerta  ,15,Música, Vermellon,   HUHW0909082ED,False
+Kaori ,  Ortega,25,Música, Kpop,  ,False

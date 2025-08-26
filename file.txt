@@ -1,0 +1,22 @@
+Nombre	Apellido	Edad	Gustos	Objeto	RFC
+Karina	 Juarez	 25	    Kpop	 Fresa	        JUCA991021KPM
+Roberto	 Gómez	 30	 Videojuegos	 Control	 GORO940520
+Sofía	    López	 22	 Pintura	 Paleta	     LOSO030215ABC
+Andrés	 Pérez	 45	        Cocina	 Manzana	 PEAN790725123
+Valeria	 Torres	 19	 Músi   ca	 Audífonos	 TOVA060910XYZ
+Javier	 Díaz	 50	 Jardinería	 Flor	 DIJA74
+Lucía	 Hernández	     28	 Lectura	 Libro	 HELU970105DFG
+Carlos	 Sánchez	 35	 Fotografía	 Cámara	 SACA900101
+Valentina	 Castro	 21	 Baile	 Zapatillas	 CAVZ040620HIJ
+Fernando	 Ruiz	    40	 Ciclismo	 Bicicleta	 RUFE8503
+Juan	 Pérez	 30	 Senderismo	 Sol	 PEGJ950101ABC
+Sofía	 Gómez	 22	 Leer	 Libro	 GOMM030515XYZ
+Carlos	    Rodríguez	 45	 Cocina	 Manzana	 ROCL800820MNB
+Lucía	 Fernández	 19	 Tocar guitarra	 Gato	 FELU061125OPQ
+Miguel	 Sánchez	 50	 Jardinería	 Flor	 SAGM751210RST
+Andrea	 López	 28	        Pintar	 Árbol	 LOAN880330**123**
+Javier	 Díaz	 35	 Fotografía	 Cámara	 DIJA900905
+Valentina	 Torres	 21	 Música clásica	 Notas musicales	 TORV040218ABC
+Fernando	 Ruiz	 40	 Videojuegos	 Control de videojuego	  RUIF850730ABC
+Paula	        Castro	 27	 Viajar	 Avión	 CAPA980425ABC
+Daniela Torres  20  Música  Agua    TOHD

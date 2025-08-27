@@ -20,8 +20,9 @@ print(ndf)
 #plt.ylabel("Employees") # etiqueta eje Y
 #plt.show()
 
-ndf.plot(kind="pie", autopct="%1.1f%%")
+#ndf.plot(kind="pie", autopct="%1.1f%%")
 
 plt.title("Distribución de personas por ciudad")
 plt.ylabel("")  # para quitar el texto de la izquierda
 plt.show()
+print("Se está llevando acabo el proceso de crear la gráfica")
